@@ -1,1 +1,1 @@
-This is a model for client and server architecture where the server listens to incoming requests from the client, and responds accordingly
+This is a model for client and server architecture where the server listens to incoming requests from the client, and responds accordingly. Client.py, Server.py and util.py are intended to work together as a model.
